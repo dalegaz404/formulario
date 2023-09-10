@@ -1,0 +1,41 @@
+# Carpeta de dependencias (node_modules para proyectos de Node.js)
+/node_modules
+
+# Archivos temporales
+*.log
+*.pot
+*.pyc
+__pycache__/
+*.db
+
+# Entorno específico (depende del lenguaje)
+*.env
+.vscode/
+
+# Carpeta de construcción/dist
+/build
+/dist
+/out
+/public
+
+# Dependencias específicas de Python
+pip-log.txt
+pip-delete-this-directory.txt
+.idea/
+
+# Dependencias específicas de Java
+*.class
+
+# Dependencias específicas de Ruby
+*.gem
+*.rbc
+/.config
+
+# Dependencias específicas de PHP
+/vendor/
+
+# Dependencias específicas de .NET
+/.vscode/
+/bin/
+/obj/
+/.idea/
